@@ -1,0 +1,305 @@
+#search-button {
+    width: 22px;
+    height: 20px;
+    margin-left: -25px;
+    margin-right: -235px;
+}
+
+.form-inline {
+    margin-left: 1rem;
+ } 
+.form-inline .form-control {
+    width: 25rem;
+}
+.form-inline input {
+    background-color: #404448;
+    border-color: #404448;
+}
+.container .form-inline {
+    position: relative;
+    right: 250px;
+}
+.container .form-inline .form-control {
+    width: 24rem;
+}
+
+.github-image {
+    height: 38px;
+    width: 38px;
+    position: relative;
+    right: 240px;
+}
+.image1 {
+    width: 19px;
+    height: 19px;
+    border-radius: 50%;
+    margin-top: 0.75rem;
+}
+.image2 {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+}
+
+.image3 {
+    width: 23px;
+    height: 23px;
+    border-radius: 25%;
+} 
+.container2 {
+    list-style: none;
+    display: flex;
+    position: relative;
+    left: 175px;
+}
+.big-container .my-upper-tabs {
+    padding-left: 15%;
+}
+.my-lower-tabs {
+    list-style: none;
+    display: flex;
+}
+.big-container .nav-link {
+    color: #816c59;
+    padding-right: 2rem;
+}
+.big-container .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    border: 3px solid;
+    border-left: 1px solid rgb(201, 199, 199);
+    border-right: 1px solid rgb(201, 199, 199);
+    border-top-color: #e36209;
+    border-bottom-color: white;
+}
+}
+
+.navbar {
+    padding: 1.5rem 0rem;
+}
+
+.btn.btn-sm.btn-secondary.dropdown-toggle {
+    background-color: #eff3f6;
+    border-color: #cacdcf;
+    color: black;
+    font-weight: bold;
+}
+.btn.btn-sm.btn-secondary {
+    background-color: white;
+    border-color: #cacdcf;
+    color: black;
+    font-weight: bold;
+}
+.dropdown {
+    margin-right: 1rem;
+}
+.big-container .main-link {
+    margin-top: 1.5rem;
+    margin-left: 15px;
+}
+.nav-item svg{
+    fill: rgb(78, 75, 75);
+}
+
+h3.main-link {
+    color: #126fd8;
+    font-size: 21px;
+    margin-left: -67px;
+    margin-bottom: 20px;
+}
+.Counter {
+    display: inline-block;
+    padding: 2px 5px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #5e5e5e;
+    background-color: rgba(27,31,35,0.08);
+    border-radius: 21px;
+}
+
+.search-bar {
+    position: relative;
+    right: 170px;
+}
+.drop-button {
+    display: flex;
+}
+.b {
+    display: flex;
+    padding-right: 3mm;
+}
+#new-tabs{
+    border-bottom: 0;
+}
+
+#project-search {
+    background-image: url(search-icon.png);
+    background-position-y: 10px; 
+    background-position-x: 12px;
+    background-repeat: no-repeat;
+    background-size:18px;
+    width: 36.8rem;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+.top-bar a {
+    padding-right: 30px;
+
+}
+
+div.to-much {
+    position: relative;
+    right: 120px;
+}
+
+div.buttons {
+    border: 1px solid rgb(180, 180, 180);
+    display: flex;
+}
+div.buttons p {
+    position: relative;
+    left: 120px;
+
+}
+
+#first-p{
+    font-size: 15pt;
+    margin-left: 7rem;
+    margin-top: 1rem;
+}
+div.work-pars {
+    position: relative;
+    right: 120px;
+}
+div.button {
+    border: 1px solid rgb(180, 180, 180);
+    display: flex;
+}
+div.button p {
+    position: relative;
+    left: 120px;
+}
+
+#first-par{
+    font-size: 15pt;
+    margin-left: 6rem;
+    margin-top: 1rem;
+}
+div.works-pars {
+    position: relative;
+    right: 120px;
+}
+div.par-header {
+    border: 1px solid rgb(180, 180, 180);
+    display: flex;
+}
+div.par-header p {
+    position: relative;
+    left: 120px;
+}
+
+#first-para{
+    font-size: 15pt;
+    margin-left: 6rem;
+    margin-top: 1rem;
+}
+
+
+div.working-pars {
+    position: relative;
+    right: 120px;
+}
+div.para-header {
+    border: 1px solid rgb(180, 180, 180);
+    display: flex;
+}
+div.para-header p {
+    position: relative;
+    left: 120px;
+}
+
+#first-paragraph{
+    font-size: 15pt;
+    margin-left: -6rem;
+    margin-top: 1rem;
+}
+.bold {
+    font-weight: bold;
+    font-size: 21px;
+    color: black;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    margin-left: 1rem;
+}
+.adding-images {
+    display: flex;
+}
+.clock-image {
+    position: relative;
+    left: 132px;
+    top: 11px;
+    width: 15px;
+    height: 15px;
+}
+.second-paragraph {
+    color: #8a7799;
+    font-size: 14px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.tab-content {
+    padding-left: 20px;
+}
+div.project-container {
+    margin: 1.5rem;
+}
+.form {
+    margin-left: 1rem;
+}
+#sorting-button {
+    position: relative; 
+    left: 785px;
+    bottom: 8px;
+    color: rgb(116, 114, 114); 
+    border-color: white;
+}
+#opening-button {
+    padding-left: 1rem;
+    font-weight: bold;
+    color: black;
+}
+#closed-button {
+    padding-left: 1rem;
+    font-weight: normal;
+    color: #706e6e;
+    fill: #5e5e5e
+}
+#first-col {
+    border: 1px solid;
+    border-color: #afafaf;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+    padding-top: 1rem;
+    width: 68rem;
+    position: relative;
+    left: 17px;
+    top: 20px;
+}
+#many-tabs {
+    position: relative;
+    border-radius: 3px;
+    top: 20px;
+    right: 3px;
+}
+.first-line {
+    display: flex;
+}
+#grey-part-bar {
+    height: 12px;
+    width: 20rem; 
+    background-color: #eaecef;
+}
+#green-part-bar {
+    height: 12px;
+    width: 70%;
+    background-color: #28a745;
+}
